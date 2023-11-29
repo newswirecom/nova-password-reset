@@ -1,6 +1,6 @@
 <?php
 
-namespace Mastani\NovaPasswordReset;
+namespace IssuerDirect\NovaPasswordReset;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Tool;

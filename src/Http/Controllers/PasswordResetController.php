@@ -1,10 +1,10 @@
 <?php
 
-namespace Mastani\NovaPasswordReset\Http\Controllers;
+namespace IssuerDirect\NovaPasswordReset\Http\Controllers;
 
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\Hash;
-use Mastani\NovaPasswordReset\Http\Requests\PasswordResetRequest;
+use IssuerDirect\NovaPasswordReset\Http\Requests\PasswordResetRequest;
 
 class PasswordResetController extends Controller {
 

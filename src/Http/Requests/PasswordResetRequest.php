@@ -1,6 +1,6 @@
 <?php
 
-namespace Mastani\NovaPasswordReset\Http\Requests;
+namespace IssuerDirect\NovaPasswordReset\Http\Requests;
 
 use Illuminate\Validation\Rules\Password;
 use Illuminate\Foundation\Http\FormRequest;

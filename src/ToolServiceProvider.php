@@ -1,13 +1,13 @@
 <?php
 
-namespace Mastani\NovaPasswordReset;
+namespace IssuerDirect\NovaPasswordReset;
 
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
 use Laravel\Nova\Events\ServingNova;
 use Laravel\Nova\Nova;
-use Mastani\NovaPasswordReset\Http\Middleware\Authorize;
+use IssuerDirect\NovaPasswordReset\Http\Middleware\Authorize;
 
 class ToolServiceProvider extends ServiceProvider
 {

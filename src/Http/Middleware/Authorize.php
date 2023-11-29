@@ -1,9 +1,9 @@
 <?php
 
-namespace Mastani\NovaPasswordReset\Http\Middleware;
+namespace IssuerDirect\NovaPasswordReset\Http\Middleware;
 
 use Laravel\Nova\Nova;
-use Mastani\NovaPasswordReset\NovaPasswordReset;
+use IssuerDirect\NovaPasswordReset\NovaPasswordReset;
 
 class Authorize
 {

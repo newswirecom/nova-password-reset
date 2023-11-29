@@ -1,5 +1,5 @@
 {
-    "name": "mastani/nova-password-reset",
+    "name": "issuer-direct/nova-password-reset",
     "description": "Reset your nova password easily from top navigation.",
     "keywords": [
         "laravel",
@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Mastani\\NovaPasswordReset\\": "src/"
+            "IssuerDirect\\NovaPasswordReset\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Mastani\\NovaPasswordReset\\ToolServiceProvider"
+                "IssuerDirect\\NovaPasswordReset\\ToolServiceProvider"
             ]
         }
     },
